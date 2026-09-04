@@ -77,3 +77,9 @@ The Earnings Surprise Tracker pulls stock price and earnings data (via `yfinance
 *(In progress — link will be added here once published.)*
 
 ## Repository structure
+
+├── sql/ # Schema + analysis queries
+├── src/ # Python ingestion, tagging, and modeling scripts
+├── exports/ # CSV exports feeding the Tableau dashboard
+├── tableau/ # Tableau Public workbook (.twb)
+└── images/ # Dashboard screenshots
