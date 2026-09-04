@@ -46,16 +46,16 @@ Three independent analyses — SQL success rates, duration benchmarks, and a ris
 ## Dashboard preview
 
 **Sponsor Competitive Ranking**
-![Sponsor Ranking]([phase_funnel.png](https://github.com/chasepatterson221/ipf-trial-intelligence/blob/main/images/images/mechanism_performance.png))
+![Sponsor Ranking](images/images/sponsor_ranking.png)
 
 **Mechanism Class Performance**
 ![Mechanism Performance](images/images/mechanism_performance.png)
 
 **Phase Funnel Attrition**
-![Phase Funnel](images/phase_funnel.png)
+![Phase Funnel](images/images/phase_funnel.png)
 
 **Active Trial Risk Scores**
-![Risk Scores](images/risk_scores.png)
+![Risk Scores](images/images/risk_scores.png)
 
 *(Static previews above — [click through the live, interactive version here](https://public.tableau.com/app/profile/chase.patterson8613/viz/IPF_PF_Trial_Intelligence_Dashboard/IPFPFTrialStories).)*
 
