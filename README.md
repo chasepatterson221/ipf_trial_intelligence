@@ -12,7 +12,7 @@ I spent time in corporate development and finance at a biopharma company working
 
 ## What it does
 
-1. **Ingests** ~575 IPF/PF clinical trials from the [ClinicalTrials.gov v2 API](https://clinicaltrials.gov/data-api/api-gateway), filtering out false-positive matches (e.g. cystic fibrosis) that simple keyword search picks up
+1. **Ingests** ~575 IPF/PF clinical trials from the [ClinicalTrials.gov v2 API]([https://clinicaltrials.gov/data-api/api-gateway](https://clinicaltrials.gov/data-api/api)), filtering out false-positive matches (e.g. cystic fibrosis) that simple keyword search picks up
 2. **Enriches** trial data with FDA approval outcomes from [openFDA](https://open.fda.gov/), matching investigational and approved drugs by name
 3. **Classifies** every drug intervention by mechanism class (antifibrotic, immunosuppressant, endothelin receptor antagonist, etc.) using verified pharmacology
 4. **Analyzes** the data with four SQL queries covering sponsor competitive ranking, phase funnel attrition, mechanism-based success rates, and duration benchmarks — built with CTEs, window functions, and percentile aggregations
