@@ -49,7 +49,7 @@ Three independent analyses — SQL success rates, duration benchmarks, and a ris
 ![Sponsor Ranking]([phase_funnel.png](https://github.com/chasepatterson221/ipf-trial-intelligence/blob/main/images/images/mechanism_performance.png))
 
 **Mechanism Class Performance**
-![Mechanism Performance](images/mechanism_performance.png)
+![Mechanism Performance](images/images/mechanism_performance.png)
 
 **Phase Funnel Attrition**
 ![Phase Funnel](images/phase_funnel.png)
