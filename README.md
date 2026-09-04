@@ -78,8 +78,20 @@ The Earnings Surprise Tracker pulls stock price and earnings data (via `yfinance
 
 ## Repository structure
 
-├── sql/ # Schema + analysis queries
-├── src/ # Python ingestion, tagging, and modeling scripts
-├── exports/ # CSV exports feeding the Tableau dashboard
-├── tableau/ # Tableau Public workbook (.twb)
-└── images/ # Dashboard screenshots
+<pre>
+├── docker-compose.yml
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── sql/
+│   ├── 01_schema.sql
+│   └── 02_analytics.sql
+├── src/
+│   ├── ingest_trials.py
+│   ├── ingest_fda_outcomes.py
+│   ├── tag_mechanism_class.py
+│   └── predict_risk.py
+├── exports/
+├── tableau/
+└── images/
+</pre>
