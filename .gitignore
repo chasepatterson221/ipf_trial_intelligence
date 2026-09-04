@@ -16,3 +16,4 @@ __pycache__/
 drug_names.txt
 sample_trial.json
 sponsor_list.txt
+exports/*.csv
