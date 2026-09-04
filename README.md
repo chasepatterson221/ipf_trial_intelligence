@@ -46,7 +46,7 @@ Three independent analyses — SQL success rates, duration benchmarks, and a ris
 ## Dashboard preview
 
 **Sponsor Competitive Ranking**
-![Sponsor Ranking](phase_funnel.png)
+![Sponsor Ranking]([phase_funnel.png](https://github.com/chasepatterson221/ipf-trial-intelligence/blob/main/images/images/mechanism_performance.png))
 
 **Mechanism Class Performance**
 ![Mechanism Performance](images/mechanism_performance.png)
