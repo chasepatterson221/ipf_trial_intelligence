@@ -74,7 +74,6 @@ Project 1 was deliberately built to feed a second project. The `sponsors` table 
 
 The Earnings Surprise Tracker pulls stock price and earnings data (via `yfinance` and SEC EDGAR) for the publicly-traded sponsors identified here, and lines it up against this database's trial phase transitions and FDA outcomes. The goal is to extend this project's central question — does trial activity reflect the real biology of IPF? — into the market: **does Wall Street's reaction to these companies' earnings and stock moves actually track the clinical signal in their pipelines, or does the market misprice IPF-focused biotech relative to what the trial data shows?**
 
-*(In progress — link will be added here once published.)*
 
 ## Repository structure
 
